@@ -17,3 +17,4 @@ Resources I am using to learn Zig
 * [Ziglings](https://codeberg.org/ziglings/exercises)
 * [Official Ziglang Documentation](https://ziglang.org/documentation/0.13.0/std/)
 * [Learn XYZ](https://learnxinyminutes.com/zig/)
+* [Zig-gamedev](https://github.com/zig-gamedev)
